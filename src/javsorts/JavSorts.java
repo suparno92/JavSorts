@@ -13,7 +13,7 @@ public class JavSorts {
       
       isPalindrome("eve");
       
-     
+     //ss
     }
     
     private static void fizzbuzz(){
